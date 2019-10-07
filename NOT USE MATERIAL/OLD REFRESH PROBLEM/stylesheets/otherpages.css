@@ -1,0 +1,281 @@
+/* CSS Document */
+
+
+.othermain_width {
+    margin: 0 auto;
+    width: 1017px !important;
+    min-width: 960px;
+    height: 840px;
+}
+
+
+#contentother {
+    background: #fff;
+    padding: 10px 10px;
+    margin-top: 2px;
+    line-height: 120%;
+    -webkit-box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+}
+
+#contentother h1
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:22px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+		margin-top: 25px;
+	    
+	}
+	
+#contentother h2
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:18px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+				
+	}	
+	
+#contentother h3
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+	    margin-bottom: -1px;		
+	}	
+
+#contentother h4
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 22px;
+		color: #555555;
+		text-align: justify;
+		letter-spacing: 1px;
+		margin-bottom: 13px;
+		margin-top: 5px;		
+	}			
+#contentother p
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;				
+	}	
+
+	
+#contentother a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 16px;
+		color: #625994;
+		text-decoration: none;
+		font-weight:600;
+		letter-spacing: 1px;				
+	}	
+
+#contentother a:hover
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 16px;
+		color: #990000;
+		text-decoration: none;
+		letter-spacing: 1px;				
+	}		
+	
+
+/*left menu table start*/	
+.leftmenutablehead
+	{
+		width:202px;
+		height:auto;
+		margin-top:8px;
+	}
+
+.leftmenutablehead #th
+	{
+		background-color:#666666;
+		padding:6px;
+/*		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;*/
+		font-size:14px;
+		color:#CCCCCC;
+		letter-spacing:2px;
+		text-decoration:none;
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+	}
+
+
+
+.leftmenuContainer
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:120px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+
+.leftmenuContainerLong
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:180px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+	
+.leftmenuContainerLong P {
+   
+    	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color:#555555;
+		text-align: left;
+		width:180px;
+		padding:5px;
+}
+	
+	
+	
+.leftmenuContainer #leftmenu
+	{
+		width:190px;
+		height:33px;
+		display:inline-block;
+		margin-left: -35px;
+	    margin-top: -13px;
+	}
+
+.leftmenuContainer #leftmenu ul
+	{
+		margin-left:0px;
+	}
+
+
+.leftmenuContainer #leftmenu ul li
+	{
+		display:block;
+       
+		width:140px;
+		height:33px;
+		padding: 0px 45px 0px 5px;
+	    line-height: 2.5;
+	    background: url(../images/bg-menu.gif);
+	}
+
+
+.leftmenuContainer #leftmenu ul li a {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color: #555555;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		
+
+}
+
+
+.leftmenuContainer #leftmenu ul li a:hover {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color:#990000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		width:140px;
+		height:33px;
+}
+
+
+
+/*left menu table end*/	
+
+
+
+
+
+
+
+/*MAIN PANEL START*/
+
+#mainpanel
+	{
+		width: 781px;
+		height: auto;
+		position: relative;
+		top: -547px;
+		margin-left: 214px;
+	}
+
+
+
+/*MAIN PANEL END*/
+
+
+
+/*SUB PAGES MAIN PANEL START*/
+
+#submainpanel
+	{
+		width: 547px;
+		height: auto;
+		position: relative;
+		top: -547px;
+		margin-left: 214px;
+	}
+
+
+#submainpanel_right
+	{
+		width: 229px;
+		height: auto;
+		position: absolute;
+		top: 174px;
+		margin-left: 769px;
+		background-color: #ffffff;
+		border: 1px solid #ccc;
+	}
+
+#submainpanel_right img
+	{
+		margin:10px 50px 10px 50px;
+	}
+	
+
+#submainpanel_right p
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+		color: #555;
+		margin-top: 10px;
+		margin-left: 13px;
+		margin-right: 13px;
+	}	
+/*SUB PAGES MAIN PANEL END*/
+
+
+
+	
+	
+

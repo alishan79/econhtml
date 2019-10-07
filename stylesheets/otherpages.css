@@ -1,0 +1,1428 @@
+/* CSS Document */
+
+
+.othermain_width {
+    margin: 0 auto;
+    width: 1017px !important;
+    min-width: 960px;
+    height: auto;
+}
+
+
+#contentother {
+    background: #fff;
+    padding: 10px 10px;
+    margin-top: 2px;
+    line-height: 120%;
+    -webkit-box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 9px rgba(0,0,0,0.1);
+    height: auto;/*actual 1000px*/
+    min-height: 600px;
+}
+
+#contentother h1
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:22px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+		margin-top: 8px;
+	    
+	}
+	
+#contentother h2
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:18px;
+		color:#625994;
+		text-align:left;
+		letter-spacing: 1px;
+				
+	}	
+	
+#contentother h3
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#625994;
+		text-align:left;
+		letter-spacing: 1px;
+	    margin-bottom: 0px;
+	    margin-top: -2px;		
+	}	
+
+#contentother h4
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 22px;
+		color: #555555;
+		text-align: left;
+		letter-spacing: 1px;
+		margin-bottom: 13px;
+		margin-top: 5px;
+		line-height:1.2;		
+	}	
+	
+
+#contentother h5
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 17px;
+		color: #555555;
+		text-align: left;
+		letter-spacing: 1px;
+		margin-bottom: 13px;
+		margin-top: 5px;		
+	}		
+	
+
+	
+	
+#contentother .bannerheading
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 22px;
+		color: #294f88;
+		text-align: left;
+		margin-bottom: 13px;
+		margin-top: 5px;
+		line-height:23px;
+		font-weight:600;		
+	}
+	
+.bannerlinks
+	{
+		width:166px;
+		height:36px;
+		background-image:url(../images/linkbuttonforbanner.png);
+		display:block;
+	}			
+
+.bannerlinks a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #294f88;
+		text-align: left;
+		margin-bottom: 13px;
+		margin-top: 5px;
+		line-height:23px;
+		font-weight:600;	
+	}			
+
+	
+#contentother .namesub
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 17px;
+		color: #555555;
+		text-align: left;
+		letter-spacing: 1px;
+		margin-bottom: 13px;
+		margin-top: 5px;		
+	}
+
+#contentother .timely
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: -13px;				
+	}		
+			
+#contentother p
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;				
+	}	
+
+#contentother p a
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:left;
+		letter-spacing: 0px;
+		margin-top: 4px;				
+	}
+
+#contentother p a:hover
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#990000;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;				
+	}	
+
+
+
+
+
+#contentother ol
+	{
+		margin:0px 74px 1px -26px;
+	}	
+
+#contentother ol li
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;
+	    margin-left: 3px;
+		width: 700px; /*for about tmics page*/
+	}	
+
+
+#contentother .bullet ul
+	{
+		margin:0px 74px 1px -26px;
+	}	
+
+#contentother .bullet ul li
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;					
+	}	
+
+	
+#contentother a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 16px;
+		color: #625994;
+		text-decoration: none;
+		font-weight:600;
+		letter-spacing: 1px;				
+	}	
+
+#contentother a:hover
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 16px;
+		color: #990000;
+		text-decoration: none;
+		letter-spacing: 1px;				
+	}		
+	
+
+/*left menu table start*/	
+.leftmenutablehead
+	{
+		width:202px;
+		height:auto;
+		margin-top:8px;
+	}
+
+.leftmenutablehead #th
+	{
+		background-color:#666666;
+		padding:6px;
+/*		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;*/
+		font-size:14px;
+		color:#CCCCCC;
+		letter-spacing:2px;
+		text-decoration:none;
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+	}
+
+
+
+.leftmenuContainer
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:120px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+
+
+	
+	
+.leftmenuContainer #leftmenu
+	{
+		width:190px;
+		height:33px;
+		display:inline-block;
+		margin-left: -35px;
+	    margin-top: -13px;
+	}
+
+.leftmenuContainer #leftmenu ul
+	{
+		margin-left:0px;
+	}
+
+
+.leftmenuContainer #leftmenu ul li
+	{
+		display:block;
+       
+		width:140px;
+		height:33px;
+		padding: 0px 45px 0px 5px;
+	    line-height: 2.5;
+	    background: url(../images/bg-menu.gif);
+	}
+
+
+.leftmenuContainer #leftmenu ul li a {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color: #555555;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		
+
+}
+
+
+.leftmenuContainer #leftmenu ul li a:hover {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color:#990000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		width:140px;
+		height:33px;
+}
+
+
+
+.leftmenuContainerLong
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:145px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+	
+.leftmenuContainerLong P {
+   
+    	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color:#555555;
+		text-align: left;
+		width:180px;
+		padding:5px;
+}
+	
+
+
+
+
+.leftmenuContainerLong #leftmenu
+	{
+		width:190px;
+		height:33px;
+		display:inline-block;
+		margin-left: -35px;
+	    margin-top: -13px;
+	}
+
+.leftmenuContainerLong #leftmenu ul
+	{
+		margin-left:0px;
+	}
+
+
+.leftmenuContainerLong #leftmenu ul li
+	{
+		display:block;
+       
+		width:140px;
+		height:33px;
+		padding: 0px 45px 0px 5px;
+	    line-height: 2.5;
+	    background: url(../images/bg-menu.gif);
+	}
+
+
+.leftmenuContainerLong #leftmenu ul li a {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color: #555555;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		
+
+}
+
+
+.leftmenuContainerLong #leftmenu ul li a:hover {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color:#990000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		width:140px;
+		height:33px;
+}
+
+
+/*left menu table end*/	
+
+
+
+
+
+/*left menu fullsize start*/
+.leftmenuContainerfull
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:372px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+	
+.leftmenuContainerfull P {
+   
+    	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color:#555555;
+		text-align: left;
+		width:180px;
+		padding:5px;
+}
+	
+
+
+
+
+.leftmenuContainerfull #leftmenu
+	{
+		width:190px;
+		height:33px;
+		display:inline-block;
+		margin-left: -35px;
+	    margin-top: -13px;
+	}
+
+.leftmenuContainerfull #leftmenu ul
+	{
+		margin-left:0px;
+	}
+
+
+.leftmenuContainerfull #leftmenu ul li
+	{
+		display:block;
+       
+		width:140px;
+		height:33px;
+		padding: 0px 45px 0px 5px;
+	    line-height: 2.5;
+	    background: url(../images/bg-menu.gif);
+	}
+	
+.leftmenuContainerfull #leftmenu ul li b
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color: #000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		font-weight:800;
+		
+	}	
+
+
+.leftmenuContainerfull #leftmenu ul li a {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13.5px;
+		color: #555555;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		
+
+}
+
+
+.leftmenuContainerfull #leftmenu ul li a:hover {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13.5px;
+		color:#990000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		width:140px;
+		height:33px;
+}
+
+
+/*left menu fullsize end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*MAIN PANEL START*/
+
+#mainpanel
+	{
+		width: 781px;
+		height: auto;
+		position: relative;
+		top: -162px;
+		margin-left: 214px;
+	}
+
+
+	
+/*MAIN PANEL END*/
+
+
+
+/*SUB PAGES MAIN PANEL START*/
+
+#submainpanel
+	{
+		width: 547px;
+		height: auto;
+		position: relative;
+		top: -192px;
+		margin-left: 214px;
+	}
+
+#submainpanel h3
+	{
+		
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#625994;
+		text-align:left;
+		letter-spacing: 1px;
+	    margin-bottom: 0px;
+	    margin-top: 37px;			
+	}
+	
+
+#submainpanel  ul 
+	{
+	    margin-left: -23px;
+		margin-top: -28px;
+	    margin-bottom: -4px;
+	}	
+		
+
+#submainpanel  ul li
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px !important;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 0px;
+		margin-top: 4px;
+	}		
+	
+	
+	
+	
+	
+#submainpanel_right
+	{
+		width: 229px;
+		height: auto;
+		position: absolute;
+		top: 209px;
+		margin-left: 769px;
+		background-color: #ffffff;
+		border: 1px solid #ccc;
+	}
+
+#submainpanel_right img
+	{
+		margin:10px 50px 10px 50px;
+	}
+	
+
+#submainpanel_right p
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+		color: #555;
+		margin-top: 10px;
+		margin-left: 13px;
+		margin-right: 13px;
+	    text-align: left;
+	}	
+	
+#submainpanel_right  ul 
+	{
+	    margin-left: -22px;
+		margin-top: -11px;
+	    margin-bottom: -4px;
+	}	
+		
+
+#submainpanel_right  ul li
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+		color: #555;
+		margin-top: 0px;
+		margin-left: 13px;
+		margin-right: 13px;
+	    text-align: left;
+	}	
+	
+	
+/*SUB PAGES MAIN PANEL END*/
+
+
+
+
+/*PERSPECTIVE STUDENTS START*/
+
+#perspectivepanel
+	{
+		width: 784px;
+		height: auto;
+		position: relative;
+		top: -338px;
+	/*	position: absolute;
+		top: 173px;*/
+		margin-left: 214px;
+	}
+
+
+#perspectivepanel_banner
+	{
+		width: 784px;
+		height: 350px;
+	}
+	
+	
+
+#perspectivepanel a
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#0150a9;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}	
+	
+	
+#perspectivepanel a:hover
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#990000;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}		
+	
+	
+	#perspectivepanel ul
+	{
+		margin: 2px 5px 2px -25px;
+
+	}
+	
+	#perspectivepanel ul li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left;
+    letter-spacing: 0px;
+    margin-top: 4px;
+	width:700px;
+	margin-bottom:6px;
+	}
+	
+
+#perspectivepanel .mylink a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 0px;
+	margin-right:-20px;
+	}	
+	
+	
+#perspectivepanel .mylink a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 0px;
+	}		
+	
+/*SUB PAGES MAIN PANEL END*/
+
+
+
+/*PERSPECTIVE EVENTS START*/
+
+
+#perspectivepanel_eventsFull
+	{
+		width: 784px;
+		height: auto;
+		position: relative;
+		top: -407px;
+	/*	position: absolute;
+		top: 173px;*/
+		margin-left: 214px;
+	}
+
+
+#perspectivepanel_eventsFull a
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#0150a9;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}	
+	
+	
+#perspectivepanel_eventsFull a:hover
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#990000;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}		
+	
+	
+	#perspectivepanel_eventsFull ul
+	{
+		margin: 2px 5px 2px -25px;
+
+	}
+	
+	#perspectivepanel_eventsFull ul li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left;
+    letter-spacing: 0px;
+    margin-top: 4px;
+	width:700px;
+	margin-bottom:6px;
+	}
+	
+
+#perspectivepanel_eventsFull .mylink a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 0px;
+	margin-right:-20px;
+	}	
+	
+	
+#perspectivepanel_eventsFull .mylink a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 0px;
+	}		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#perspectivepanel_events
+	{
+		width: 784px;
+		height: auto;
+		position: relative;
+		top: -164px;
+	/*	position: absolute;
+		top: 173px;*/
+		margin-left: 214px;
+	}
+
+#perspectivepanel_events a
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#0150a9;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}	
+	
+	
+#perspectivepanel_events a:hover
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#990000;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}		
+	
+	
+	#perspectivepanel_events ul
+	{
+		margin: 2px 5px 2px -25px;
+
+	}
+	
+	#perspectivepanel_events ul li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left;
+    letter-spacing: 0px;
+    margin-top: 4px;
+	width:700px;
+	margin-bottom:6px;
+	}
+	
+
+#perspectivepanel_events .mylink a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 0px;
+	margin-right:-20px;
+	}	
+	
+	
+#perspectivepanel_events .mylink a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 0px;
+	}		
+	
+/*SUB PAGES MAIN PANEL END*/
+
+
+/*TABLE START*/	
+
+  .mytable
+  	{
+		width:783px;
+		border-color:#FFFFFF;
+	}		
+	
+	.mytable .header_table
+	{
+		font-family:helvetica,arial,sans-serif;
+		font-size:13px;
+		color:#fff;
+		text-align:justify;
+		background-color:#872424;
+		height:30px;
+		padding-left:5px;
+	}
+	
+	.mytable .subheader_table
+	{
+		font-family:helvetica,arial,sans-serif;
+		font-size:13px;
+		color:#fff;
+		text-align:left;
+		background-color:#333;
+		height:30px;
+
+	}
+	
+	.mytable .detail_table
+	{
+		font-family: helvetica,arial,sans-serif;
+		font-size: 13px;
+		color: #000;
+		text-align: left !important;
+		vertical-align: top;
+		padding: 2px;
+		line-height: 1.5;
+	}
+	
+	
+	.mytable .detail_table ol
+	{
+		margin: 2px 0px 2px -23px !important;
+
+
+	}
+	
+	.mytable .detail_table ol li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left  !important;
+	width:171px !important;
+    margin-top: 4px;
+	}
+	
+	
+/*FOR POST GRADUATE TABLE START*/	
+
+	.mytable .detail_tablePG
+	{
+		font-family: helvetica,arial,sans-serif;
+		font-size: 13px;
+		color: #000;
+		text-align: left !important;
+		vertical-align: top;
+		padding: 2px;
+		line-height: 1.5;
+	}
+	
+	
+	.mytable .detail_tablePG ol
+	{
+		margin: 2px 0px 2px -23px !important;
+
+
+	}
+	
+	.mytable .detail_tablePG ol li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left  !important;
+	width:227px !important;
+    margin-top: 4px;
+	}
+	
+	.mytable .detail_tablePG p
+	{
+		font-family:Helvetica,Arial,sans-serif;
+		font-size:12px;
+		color:#555555;
+		text-align:left !important;
+		letter-spacing: 0px;
+		margin-top: 4px;				
+	}		
+	
+/*FOR POST GRADUATE TABLE END*/		
+	
+/*TABLE END*/
+
+#shortlink 
+	{
+	}
+
+#shortlink a
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+		color:#0150a9 !important;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}	
+	
+	
+#shortlink a:hover
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 13px;
+		color:#990000 !important;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}		
+	
+	
+	
+	
+/*NEWS STUDENTS START*/
+
+#perspectivepanelnews
+	{
+		width: 784px;
+		height: auto;
+	/*	position: relative;
+		top: -372px;*/
+		position: absolute;
+		top: 173px;
+		margin-left: 214px;
+	}
+
+
+	
+
+#perspectivepanelnews a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 8px;
+	margin-right:-20px;
+	}	
+	
+	
+	#perspectivepanelnews a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 8px;
+	}		
+	
+	
+	#perspectivepanelnews ul
+	{
+		text-align:left;
+
+
+	}
+	
+	#perspectivepanelnews ul li
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 4px;
+	margin-bottom:-8px;
+	display:inline;
+	padding:5px 8px 5px 8px;
+	margin-right:5px;
+	}
+	
+	
+	
+#perspectivepanelnews .mylink a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 0px;
+	margin-right:-20px;
+	}	
+	
+	
+#perspectivepanelnews .mylink a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 0px;
+	}		
+	
+	
+	
+/*SUB PAGES MAIN PANEL END*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*NEWS STUDENTS START*/
+
+
+
+
+
+	
+/*SUB PAGES MAIN PANEL END*/	
+	
+	
+	
+	
+
+	
+	
+
+/*SEARCH PAGE START*/
+
+#search
+	{
+		width: 784px;
+		height: auto;
+	/*	position: relative;
+		top: -372px;*/
+		position: absolute;
+		top: 173px;
+		margin-left: 8px;
+	}
+
+
+
+#search a
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#0150a9;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}	
+	
+	
+#search a:hover
+	{
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		color:#990000;
+		text-align: justify;
+		line-height: 1;
+		text-decoration: none;
+	}		
+	
+	
+	#search ul
+	{
+		margin: 2px 5px 2px -25px;
+
+	}
+	
+	#search ul li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left;
+    letter-spacing: 0px;
+    margin-top: 4px;
+	width:700px;
+	margin-bottom:6px;
+	}
+	
+	
+	
+/*SEARCH PAGE END*/	
+	
+	
+	
+/*................................................................................................	*/
+
+/*left menu fullsize start Research*/
+
+
+
+.leftmenuContainerResearch
+	{
+		border:1px solid #ccc;
+		width:200px;
+		height:auto;
+		position: absolute;
+    top: 214px;
+		display:inline-block;
+		margin-left:0px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fffefc+0,fffefc+27,f1f1f1+100 */
+background: #fffefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #fffefc 0%, #fffefc 27%, #f1f1f1 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fffefc 0%,#fffefc 27%,#f1f1f1 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fffefc', endColorstr='#f1f1f1',GradientType=0 ); /* IE6-9 */
+	}
+
+
+	
+	
+.leftmenuContainerResearch #leftmenu
+	{
+		width:190px;
+		height:33px;
+		display:inline-block;
+		margin-left: -35px;
+	    margin-top: -13px;
+	}
+
+.leftmenuContainerResearch #leftmenu ul
+	{
+		margin-left:0px;
+	}
+
+
+.leftmenuContainerResearch #leftmenu ul li
+	{
+		display:block;
+       
+		width:140px;
+		height:33px;
+		padding: 0px 45px 0px 5px;
+	    line-height: 2.5;
+	    background: url(../images/bg-menu.gif);
+	}
+
+
+.leftmenuContainerResearch #leftmenu ul li a {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color: #555555;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		
+
+}
+
+
+.leftmenuContainerResearch #leftmenu ul li a:hover {
+   
+    	font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+		font-size: 14px;
+		color:#990000;
+		text-align: justify;
+		line-height: 2.7;
+		text-decoration: none;
+		width:140px;
+		height:33px;
+}
+
+
+/*left menu fullsize Research end*/
+
+
+
+
+
+#perspectivepanel_eventsupdate
+	{
+		width: 784px;
+		height: auto;
+		position: relative;
+		top: 0px;
+/*		position: absolute;
+		top: 173px;*/
+		margin-left: 214px;
+	}
+
+#perspectivepanel_eventsupdate a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px !important;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 8px 5px 8px;
+    margin-right: -20px;
+	}	
+	
+	
+#perspectivepanel_eventsupdate a:hover
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #990000;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 8px 5px 8px;
+    margin-right: -20px;
+	}		
+	
+	
+	#perspectivepanel_eventsupdate ul
+	{
+		margin: 2px 5px 2px -25px;
+
+	}
+	
+	#perspectivepanel_eventsupdate ul li
+	{
+	font-family: Helvetica,Arial,sans-serif;
+    font-size: 12px !important; 
+    color: #555555;
+    text-align: left;
+    letter-spacing: 0px;
+    margin-top: 4px;
+	width:700px;
+	margin-bottom:6px;
+	margin-left:30px !important;
+	}
+	
+#perspectivepanel_eventsupdate ul li a {
+    font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 12px !important;
+    color: #333333;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 1px 5px 0px;
+    margin-right: -20px;
+}
+
+#perspectivepanel_eventsupdate ul li a:hover {
+    font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 12px !important;
+    color: #990000;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 5px 1px 5px 0px;
+    margin-right: -20px;
+}	
+
+#perspectivepanel_eventsupdate .mylink a
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #625994;
+    text-decoration: none;
+    font-weight: 600;
+	padding:5px 8px 5px 0px;
+	margin-right:-20px;
+	}	
+	
+	
+#perspectivepanel_eventsupdate .mylink a:hover
+	{
+	font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+	background-color:#003399;
+	padding:5px 8px 5px 0px;
+	}			
+	
+
+.leftmenutableheadupdate
+	{
+		width:202px;
+		height:auto;
+		margin-top:8px;
+		position:absolute;
+		top:172px;
+	}
+
+.leftmenutableheadupdate #th
+	{
+		background-color:#666666;
+		padding:6px;
+/*		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;*/
+		font-size:14px;
+		color:#CCCCCC;
+		letter-spacing:2px;
+		text-decoration:none;
+		font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'ralewaythin', 'Helvetica Neue', "Calibri Light", "Calibri", Helvetica, Arial, sans-serif;
+	}

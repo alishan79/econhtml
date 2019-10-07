@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="refresh" content="text/html; charset=iso-8859-1" />
+<title>Department of Economics</title>
+
+
+<HEAD>
+<!--favion start-->
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<!--favion end-->
+<link rel="stylesheet" href="tabs.css" type="text/css" media="screen, projection"/>
+
+	<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.7.custom.min.js"></script>
+    <script type="text/javascript">
+		$(function() {
+
+			var $tabs = $('#tabs').tabs();
+	
+			$(".ui-tabs-panel").each(function(i){
+	
+			  var totalSize = $(".ui-tabs-panel").size() - 1;
+	
+			  if (i != totalSize) {
+			      next = i + 2;
+/*		   		  $(this).append("<a href='#' class='next-tab mover' rel='" + next + "'>Next</a>");*/
+
+			  }
+	  
+			  if (i != 0) {
+			      prev = i;
+/*		   		  $(this).append("<a href='#' class='prev-tab mover' rel='" + prev + "'>Previous</a>");*/
+			  }
+   		
+			});
+	
+			$('.next-tab, .prev-tab').click(function() { 
+		           $tabs.tabs('select', $(this).attr("rel"));
+		           return false;
+		       });
+       
+
+		});
+    </script>
+</head>
+
+<body style="background-color:#f2f2f2;">
+
+
+			<?php include 'headerother.php';?>
+
+	<div id="contentother">
+		
+	
+	<!--LEFT MENU  START-->
+	<table border="1" cellpadding="0" cellspacing="0" class="leftmenutablehead" width="202px">    
+	<tr>
+		<td id="th">RESEARCH</td>
+	</tr>
+	</table>
+	
+	
+	
+	<div class="leftmenuContainerResearch">	
+		<div id="leftmenu">
+		<ul>
+		<li><a href=""><b>Centres</b></a></li>
+		
+			<li><a href="http://www.creb.org.pk/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CREB</a></li>
+			<li><a href="http://www.gids.org.pk/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIDS</a></li>			
+			<li><a href="tmicmain.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TMIC</a></li>						
+			
+		
+		<li><a href=""><b>Publications</b></a></li>
+			<li><a href="http://www.creb.org.pk/workingseries.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Working&nbsp;Papers&nbsp;Series</a></li>
+			<li><a href="http://www.creb.org.pk/policyseries.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Policy&nbsp;Papers&nbsp;Series</a></li>					
+			<li><a href="http://lahoreschoolofeconomics.edu.pk/EconomicsJournal/LJEIntro.aspx" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LJE</a></li>		
+			<li><a href="econ_dept_publications.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recent&nbsp;Publications</a></li>
+	
+			
+			<li><a href="maj_econ_projects.php"><B>Research&nbsp;Projects</B></a></li>			
+			<li><a href="research_themes.php">&nbsp;&nbsp;<B>Research&nbsp;Themes</B></a></li>
+			<li><a href="dissertations_thesis.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>MPhil Theses</B></a></li>			
+			
+			
+			
+<!--<li><a href="dissertations_thesis.php"><B>MPhil Theses</B></a></li>-->	
+		</ul>
+		</div><!--end <div class="leftmenu">-->
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		
+	</div><!--end <div class="leftmenuContainer">-->
+	
+	
+	
+
+	<!--LEFT MENU  END-->
+	
+	
+	
+	
+	
+	<!--START MAIN PANEL-->
+		<div id="perspectivepanelnews">
+		<br>
+		<h1>Research Projects</h1>
+		<br>
+		
+		
+<!--START PAGINATION AND DATA-->
+<div id="page-wrap">
+		
+		<div id="tabs">
+
+
+
+	<div id="fragment-1" class="ui-tabs-panel">
+	
+	<h2>Incentivizing Attendance in Production Teams</h2> 
+	<h3>Theresa Chaudhry, Zunia Tirmazee, Christopher Woodruff (University of Oxford) and Muhammad Haseeb (University of Warwick)
+ </h3>
+	<p>The research team tested whether short-term financial incentives can be used to decrease worker absenteeism in one of Gujrat's leading fan factories.  In 2012 -2013, they piloted attendance incentive schemes on a sample of production teams. Comparing the attendance records of the teams offered the group-based incentive to a control group, the research team has found that the group-based incentive bonus increased the number of days that an announced attendance target was met.</p>
+	<p>The project was funded by the IGC and collaborators included Christopher Woodruff (University of Oxford) and Muhammad Haseeb (University of Warwick). </p>
+	
+	<div align="center"><img src="images/majproj_1.png" width="450px"></div>
+
+	<hr width="780px" align="left">
+<br>
+	
+	<h2>Causes and Consequences of Consanguineous Marriage in Pakistan </h2>
+	<h3>Theresa Chaudhry and Mushfiq Mobarak (Yale University)</h3>
+	<p>The researchers examined the causes of consanguineous marriage, and attempted to measure the effects of consanguineous marriage, both negative and positive.  In this project, nine (out of Punjab's 35 districts) were randomly selected, comprising 70 sampling clusters. Interviews of just over 1000 households were conducted in October 2009.  A total of 4643 pregnancies were reported by 391 first cousin (37.6% of the marriages) and 622 non consanguineous couples interviewed in the study.<br>
+	Collaborators include Mushfiq Mobarak (Yale University).
+	</p>
+	
+		<div align="center"><img src="images/majproj_2.png" width="450px"></div>
+
+	<hr width="780px" align="left">
+
+	</div><!--end <div id="fragment-1" class="ui-tabs-panel">-->
+
+
+
+	<div id="fragment-2" class="ui-tabs-panel">
+	
+		<h2>Conditional-Cash Transfers for Girls' Secondary Schooling in Punjab: Outcomes</h2>
+		<h3>Theresa Chaudhry and Mushfiq Mobarak (Yale University)</h3>
+		<p>The government of Punjab, starting in 2004, offered a conditional cash transfer (CCT) of Rs 200 per month, to girls in class 6 to 8 with minimum 80 percent attendance, in order to increase the educational attainment of girls in districts with less than 40 percent literacy.  Using data collected a survey of rural households in Punjab, the researchers analyzed the impacts of this CCT on enrollment and marriage outcomes by comparing eligible girls to their non-eligible elder sisters and younger siblings in both stipend and non-stipend districts.  </p>
+
+<p>This project was supported by the British Academy and Lahore School of Economics and collaborators include Mushfiq Mobarak (Yale University).
+</p>
+
+	<div align="center"><img src="images/majproj_3.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+		<br>
+		
+		<h2>Rent-seeking, Government Size and Economic Growth </h2>
+		<h3>Dr. Waqar Wadho and Umair Ayaz</h3>
+		<p>The research team is exploring the relationship between government size and economic growth in an endogenous growth model with human capital and unproductive social capital. The researchers show that with endogenous discounting, growth outcome is history dependent and is function of initial endowment of human capital. With low endowment, government intervention of any size is growth depressing. With high endowment, government intervention is not associated with any depressing effect. For intermediate levels, there are multiple equilibria. Furthermore, countries with identical endowment and government size can be in different equilibrium, and can have different growth rates within same equilibrium if they differ in institutional quality. </p>
+		
+		<hr width="780px" align="left">
+		<br>
+		
+		
+	</div><!--end <div id="fragment-2" class="ui-tabs-panel">-->
+
+<!--***************-->
+
+		<div id="fragment-3" class="ui-tabs-panel">
+<h2>Two Sides of the Same Rupee? Comparing Demand for Microcredit and Microsaving in a Framed Field Experiment in Rural Pakistan </h2><h3>Farah Said and Uzma Afzal, Marcel Faffchamps (Stanford University), Giovanna d'Adda (University of Birmingham) and Simon Quinn (Oxford University).</h3>
+		
+		<p>The study is a Randomized Control Trial designed to compare the effectiveness of micro-savings and micro-loans as means for households to manage risk and liquidity. </p>
+		
+		<p>This research is funded by the IGC and is collaboration between the Lahore School of Economics, the University of Oxford and the National Rural Support Programme (NRSP), Pakistan. Collaborators are Marcel Faffchamps (Stanford University), Giovanna d'Adda (University of Birmingham) and Simon Quinn (Oxford University).</p>
+		
+		<div align="center"><img src="images/majproj_4.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+<br>
+		<h2>Impact assessment of startup loans to female run micro-enterprises </h2>
+		<h3>Farah Said, Azam Chaudhry, Naved Hamid and Mahreen Mahmud</h3>
+		<p>The study is an impact evaluation of a unique micro-loan product with a training component that is provided only to female borrowers to start-up their microenterprise. 
+Baseline activities were funded by the Kashf Foundation and were concluded in August 2014. Endline activities are being funded by the IGC.</p>
+<p>This research is collaboration between researchers at the Lahore School of Economics, University of Kent, and the Kashf Foundation, Pakistan. 
+</p>
+
+		<div align="center"><img src="images/majproj_5.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+		
+		
+		
+
+		</div><!--<div id="fragment-3" class="ui-tabs-panel">-->
+
+
+
+<!--***************-->
+
+		<div id="fragment-4" class="ui-tabs-panel">
+		<h2>Pressures from peers and spouses and self-control problems as constraints to microenterprise growth: Experimental evidence from Pakistan </h2>
+		<h3>Farah Said, Uzma Afzal, Marcel Faffchamps (Stanford University) and Giovanna d'Adda (University of Birmingham)</h3>
+		
+		<p>This study is assessing the role of self-control problems and peer pressures on take-up and use of a financial product by female microentrepreneurs in Pakistan, by combining laboratory and field experiments. </p>
+
+
+
+
+		<p>This project is funded by the IGC and collaborators include Marcel Faffchamps (Stanford University) and Giovanna d'Adda (University of Birmingham).
+</p>
+
+		<div align="center"><img src="images/majproj_6.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+		<br>
+		<h2>Learning about Disaster: Evidence from a field experiment in Pakistan </h2>
+		<h3>Farah Said, Uzma Afzal and Ginger Turner (University of Pennsylvania)</h3>
+		
+		<p>This research project is using behavioral field experiments to study the effect of rare events on individual decision-making.</p>
+
+<p>This research is being jointly funded by the British Academy International Partnerships grant and the Lahore School of Economics and is a collaboration between the Lahore School of Economics and the University of Oxford.  Collaborators include Ginger Turner (University of Pennsylvania).
+</p>
+
+		<div align="center"><img src="images/majproj_7.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+		
+		
+
+		</div><!--end <div id="fragment-4" class="ui-tabs-panel">--->
+
+
+
+<!--***************-->
+
+		<div id="fragment-5" class="ui-tabs-panel">
+		<h2>Incentivizing Development: A Field Experiment on Third Tier Organizations in Pakistan </h2>
+		<h3>Hamna Ahmed, Asha Gul, Kate Vyborny (Duke University) and Simon Quinn (University of Oxford)</h3>
+		
+		<p>This study is a Randomized Control Trial (RCT) being funded by the Pakistan Poverty Alleviation Fund (PPAF).   The study focuses on incentivizing development across 800 Local Support Organizations (LSOs) spread across Pakistan by testing the impact of two sustainable measures the donor can take to engage with these community-based organizations: (i) self-reporting and (ii) non-financial incentives.</p>
+
+<p>Collaborators include Kate Vyborny (Duke University) and Simon Quinn (University of Oxford). 
+</p>
+		<div align="center"><img src="images/majproj_8.png" width="450px"></div>
+
+		<hr width="780px" align="left">
+		</div><!--<div id="fragment-5" class="ui-tabs-panel">-->
+
+
+
+	<br><br><br><br><br><br><br><br><br><br><br><br><br /><br><br><br>
+		
+		<ul>
+        		<li><a href="#fragment-1">1</a></li>
+        		<li><a href="#fragment-2">2</a></li>
+        		<li><a href="#fragment-3">3</a></li>
+        		<li><a href="#fragment-4">4</a></li>
+        		<li><a href="#fragment-5">5</a></li>
+    	   </ul>
+
+		</div><!--end <div id="fragment-1" class="ui-tabs-panel">-->
+		</div><!--END <div id="tabs">-->
+		</div><!--END<div id="page-wrap">-->
+<!--END PAGINATIN AND DATA-->
+
+	
+		<!--<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>-->
+		
+
+		</div><!--end <div id="perspectivepanelnews">-->
+	
+	</div><!--<div id="contentother"> end-->
+
+	</div>	<!--end <div class="main_width">-->	
+</td></tr>
+
+<?php
+	include 'myfooter.php';
+?>	
+
+
+
+
+
+
+</body>
+</html>

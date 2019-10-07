@@ -1,0 +1,373 @@
+/* CSS Document */
+
+#content {
+    padding: 10px 4px;
+    margin-top: 7px;
+    line-height: 120%;
+}
+
+#content h1
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:11px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+	}
+	
+#content h2
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:18px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 1px;		
+	}	
+	
+#content h3
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 1px;		
+	}		
+
+#content p
+	{
+		font-family:'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color:#999;
+		text-align:justify;
+		font-size: 12px;
+    	line-height: 1.2em;
+	}
+
+#content b
+	{
+		font-family:'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color:#333;
+		text-align:left;
+		font-size: 12px;
+		font-weight:700;
+	}	
+
+#content img
+	{
+		width:144px;
+		height:148px;
+		margin-right:7px;
+	}	
+
+#content .mydate   /*FOR INDEX PAGE LATEST NEWS DATE*/
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:10px;
+		color:#555;
+	}	
+
+
+#content .mydate1   /*FOR INDEX PAGE LATEST NEWS DATE*/
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 10px;
+		color: #555;
+	}	
+
+
+#content .mydate2   /*FOR INDEX PAGE LATEST NEWS DATE*/
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 10px;
+		color: #555;
+	}
+
+
+#content a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #1f345d;
+		text-align: justify;
+		line-height: 1.5;
+		text-decoration: none;
+		font-weight:700;
+	}	
+
+#content a:hover
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #990000;
+		text-align: justify;
+		line-height: 1.5;
+		text-decoration: none;
+	}		
+	
+#content ul
+	{
+		margin: 2px 5px 2px 20px;
+	}	
+
+#content ul li
+	{
+
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#000;
+		text-align:justify;
+		padding:0px 45px 0px 5px;
+		line-height:1.5;
+
+	}	
+	
+
+#content ol
+	{
+		margin: 2px 5px 2px 20px;
+	}	
+
+#content ol li
+	{
+
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#000;
+		text-align:justify;
+		padding:0px 45px 0px 5px;
+		line-height:1.5;
+
+	}			
+	
+
+
+
+
+/******/
+#contentRight {
+
+    line-height: 120%;
+}
+
+#contentRight h1
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:11px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+	}
+
+
+#contentRight p
+	{
+		font-family:'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color:#555555;
+		text-align:justify;
+		font-size: 13px;
+    	line-height: 1.2em;
+	}
+
+#contentRight .datebg
+	{
+		width:32px;
+		height:36px;
+		background-image:url(../images/datebg.png);
+	}
+
+#contentRight .datebg .md
+	{
+		font-family: 'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color: #555555;
+		text-align: center;
+		font-size: 11px;
+		line-height: 1.7em;
+		padding: 7px;
+	}
+
+#contentRight .para 
+	{
+		margin-top: -56px;
+		margin-left: 34px;
+	}
+
+
+#contentRight .para p
+	{
+		font-family: 'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color: #555555;
+		text-align: left;
+		font-size: 13px;
+		padding: 0px 0px 0px 7px;
+		margin-top: -18px;
+	}
+
+
+#contentRight .para h3 a
+	{
+		padding: 7px;
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #1f345d;
+		text-align: justify;
+		text-decoration: none;
+		font-weight:700;
+	}	
+
+#contentRight .para h3 a:hover
+	{
+		padding: 7px;
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color:#990000;
+		text-align: justify;
+		text-decoration: none;
+		font-weight:700;
+	}	
+
+
+
+
+
+	
+.otherlink{
+		}	
+	
+.otherlink a
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:13px;
+		color:#003399;
+		text-align:justify;
+		padding:0px 0px 0px 0px !important;
+		line-height:1.5;
+	}	
+
+.otherlink a:hover
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:13px;
+		color:#990000;
+		text-align:justify;
+		padding:0px 0px 0px 0px !important;
+		line-height:1.5;
+	}			
+	
+	
+	
+.facultylink{}	
+	
+.facultylink a
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#003399;
+		text-align:justify;
+		padding:0px 0px 0px 0px !important;
+		line-height:1.5;
+		font-weight:bold;
+		text-decoration:none;
+	}	
+
+.facultylink a:hover
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#990000;
+		text-align:justify;
+		padding:0px 0px 0px 0px !important;
+		line-height:1.5;
+	}			
+
+
+
+#contentTmic {
+    width: 989px;
+    padding: 10px 4px 0px 15px;
+    margin-top: 7px;
+    line-height: 120%;
+}
+
+
+#contentTmic h1
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:11px;
+		color:#625994;
+		text-align:justify;
+		letter-spacing: 1px;
+	}
+	
+#contentTmic h2
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:18px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 1px;		
+	}	
+	
+#contentTmic h3
+	{
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#555555;
+		text-align:justify;
+		letter-spacing: 1px;		
+	}		
+
+#contentTmic p
+	{
+		font-family:'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color:#999;
+		text-align:justify;
+		font-size: 14px;
+    	line-height: 1.2em;
+	}
+
+#contentTmic b
+	{
+		font-family:'TeXGyreAdventorRegularMine',Helvetica,Arial,sans-serif;
+		color:#333;
+		text-align:left;
+		font-size: 12px;
+		font-weight:700;
+	}	
+	
+#contentTmic a
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #555555;
+		text-align: justify;
+		line-height: 1.5;
+		text-decoration: none;
+		font-weight:700;
+	}	
+
+#contentTmic a:hover
+	{
+		font-family: 'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size: 12px;
+		color: #990000;
+		text-align: justify;
+		line-height: 1.5;
+		text-decoration: none;
+	}		
+	
+#contentTmic ul
+	{
+		margin: 2px 5px 2px 20px;
+	}	
+
+#contentTmic ul li
+	{
+
+		font-family:'TeXGyreAdventorRegular',Helvetica,Arial,sans-serif;
+		font-size:14px;
+		color:#000;
+		text-align:justify;
+		padding:0px 45px 0px 5px;
+		line-height:1.5;
+
+	}	
+		
